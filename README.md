@@ -1,6 +1,7 @@
 # pandas-challenge
 Module 4 challenge
 
+## Written Report
 Two data sets of school and student information were analyzed to find observable trends with student's standardized test scores in relationship with school size, school type and school budget. The following categories were analyzed to reveal any such trends:
 - District Summary
 - School Summary
@@ -12,7 +13,7 @@ Two data sets of school and student information were analyzed to find observable
 - Scores by School Size 
 - Scores by School Type
 
-Summary:
+### Conclusions:
 
 The data shows that students from small and medium sized charter schools (2,000 or less students) are much more likely to pass math than that of students who attend a large district school (93.5% vs 70% passing math). Reading test scores were also higher, but by a smaller margin (96.8% vs 82.8% passing reading). It seems that school type is one of the best indicators for test scores. Small and medium sized schools in this dataset were all charter schools so it may also be said that students at schools with less than 2,000 students are much more likely to receive higher standardized test scores, especially in math. 
 
